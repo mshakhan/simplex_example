@@ -1,0 +1,3 @@
+[submodule "vendor/simplex"]
+	path = vendor/simplex
+	url = git://github.com/mshakhan/simplex.git
